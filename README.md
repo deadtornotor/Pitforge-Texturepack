@@ -23,6 +23,6 @@ Default Slimefun Textures:
 Infinity Expention Textures (Optifine only):
 	[Mooy1](https://github.com/Mooy1/InfinityExpansion/releases/tag/v1)
 
-Gun Models:
-	[By Author: deadtornotor](https://github.com/deadtornotor/Pitforge-Texturepack)
+Gun Models by Author:
+	[deadtornotor](https://github.com/deadtornotor/Pitforge-Texturepack)
 
