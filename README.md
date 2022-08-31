@@ -17,12 +17,13 @@ Some textures and models may require Optifine
 
 # Credits
 
-Default Slimefun Textures:
+Default Slimefun Textures by:
 	[Raulh22](https://www.planetminecraft.com/texture-pack/slimefun-texture-by-raulh22/)
 
-Infinity Expention Textures (Optifine only):
+Infinity Expention Textures by:
 	[Mooy1](https://github.com/Mooy1/InfinityExpansion/releases/tag/v1)
+	(Optifine only)
 
-Gun Models by Author:
+Gun Models by:
 	[deadtornotor](https://github.com/deadtornotor/Pitforge-Texturepack)
 
