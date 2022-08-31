@@ -1,5 +1,8 @@
 # Pitforge Texturepack
+
+Logo:
 ![alt text](https://github.com/deadtornotor/Pitforge-Texturepack/pack.png "Pack.png")
+
 Version: 1.2
 
 [Discord](https://discord.gg/VZej4KJAM9)
@@ -20,13 +23,13 @@ Some textures and models may require Optifine
 # Credits
 
 Default Slimefun Textures by:
-	[Raulh22](https://www.planetminecraft.com/texture-pack/slimefun-texture-by-raulh22/)
+[Raulh22](https://www.planetminecraft.com/texture-pack/slimefun-texture-by-raulh22/)
 
 Infinity Expention Textures by:
-	[Mooy1](https://github.com/Mooy1/InfinityExpansion/releases/tag/v1)
-	(Optifine only)
+[Mooy1](https://github.com/Mooy1/InfinityExpansion/releases/tag/v1)
+(Optifine only)
 
 Gun Models by:
-	[deadtornotor](https://github.com/deadtornotor/Pitforge-Texturepack)
-	(Some Models may require Optifine to load properly, none of the guns models tho)
+[deadtornotor](https://github.com/deadtornotor/Pitforge-Texturepack)
+(Some Models may require Optifine to load properly, none of the guns models tho)
 
