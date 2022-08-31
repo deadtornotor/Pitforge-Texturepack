@@ -1,7 +1,9 @@
 # Pitforge
-Discord: https://discord.gg/VZej4KJAM9
+[Discord]: https://discord.gg/VZej4KJAM9
 
 This is the official Texturepack of Pitforge
+
+Some textures and models may require Optifine
 
 | Version | Supported          |
 | ------- | ------------------ |
