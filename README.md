@@ -1,5 +1,5 @@
-# Pitforge
-
+# Pitforge Texturepack
+![alt text](https://github.com/deadtornotor/Pitforge-Texturepack/edit/main/pack.png)
 Version: 1.2
 
 [Discord](https://discord.gg/VZej4KJAM9)
@@ -7,6 +7,8 @@ Version: 1.2
 This is the official Texturepack of Pitforge
 
 Some textures and models may require Optifine
+
+# Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
