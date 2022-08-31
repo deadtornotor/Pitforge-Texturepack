@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4201008}, "model": "item/sf-parts/rifle-stock" },
+   { "predicate": { "custom_model_data": 4201012}, "model": "item/sf-parts/assault-rifle-stock" },
+   { "predicate": { "custom_model_data": 4201016}, "model": "item/sf-parts/sniper-stock" },
+   { "predicate": { "custom_model_data": 4201020}, "model": "item/sf-parts/shotgun-stock" },
+   { "predicate": { "custom_model_data": 4201024}, "model": "item/sf-parts/machine-gun-stock" }
+
+
+  ]
+}

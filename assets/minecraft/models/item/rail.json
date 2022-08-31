@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/rail"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4201006}, "model": "item/sf-parts/rifle-body" },
+   { "predicate": { "custom_model_data": 4201010}, "model": "item/sf-parts/assault-rifle-body" },
+   { "predicate": { "custom_model_data": 4201018}, "model": "item/sf-parts/shotgun-body" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_mellohi"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/m1-flamethrower" },
+   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/m1-flamethrower" },
+   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/m1-flamethrower" },
+   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/m1-flamethrower" },
+   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/m1-flamethrower" },
+   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/m1-flamethrower" },
+   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/m1-flamethrower" }
+   
+  ]
+}

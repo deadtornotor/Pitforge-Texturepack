@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/lightning_rod",
+  "overrides": [
+   { "predicate": { "custom_model_data": 4201003}, "model": "item/sf-parts/pistol-magazine" }
+  ]
+}

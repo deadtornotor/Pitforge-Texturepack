@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/black_candle"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4201007}, "model": "item/sf-parts/rifle-magazine" },
+   { "predicate": { "custom_model_data": 4201011}, "model": "item/sf-parts/assault-rifle-magazine" },
+   { "predicate": { "custom_model_data": 4201015}, "model": "item/sf-parts/sniper-clip" },
+   { "predicate": { "custom_model_data": 4201023}, "model": "item/sf-parts/machine-gun-magazine" }
+  ]
+}

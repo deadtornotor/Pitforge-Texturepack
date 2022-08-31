@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "custom/flamethrower-fuel-hose"
+	},
+	"gui_light": "front",
+	"display": {}
+}

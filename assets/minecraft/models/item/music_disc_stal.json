@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_stal"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/bren-lmg" },
+   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/bren-lmg" },
+   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/bren-lmg" },
+   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/bren-lmg" },
+   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/bren-lmg" },
+   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/bren-lmg" },
+   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/bren-lmg" },
+   
+   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/mg-42" },
+   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/mg-42" },
+   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/mg-42" },
+   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/mg-42" },
+   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/mg-42" },
+   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/mg-42" },
+   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/mg-42" }
+  ]
+}

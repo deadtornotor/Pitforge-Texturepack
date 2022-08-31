@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/ladder"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4201002}, "model": "item/sf-parts/pistol-body" },
+   { "predicate": { "custom_model_data": 4201014}, "model": "item/sf-parts/sniper-body" }
+  ]
+}

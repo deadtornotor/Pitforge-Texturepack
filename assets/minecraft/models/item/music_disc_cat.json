@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_cat"
+  },
+  "overrides": [
+   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/winchester-model-1912" },
+   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/winchester-model-1912" },
+   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/winchester-model-1912" },
+   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/winchester-model-1912" },
+   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/winchester-model-1912" },
+   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/winchester-model-1912" },
+   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/winchester-model-1912" },
+   
+   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/browning-auto-5" },
+   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/browning-auto-5" },
+   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/browning-auto-5" },
+   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/browning-auto-5" },
+   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/browning-auto-5" },
+   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/browning-auto-5" },
+   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/browning-auto-5" }
+  ]
+}
