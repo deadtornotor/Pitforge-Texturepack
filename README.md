@@ -26,4 +26,5 @@ Infinity Expention Textures by:
 
 Gun Models by:
 	[deadtornotor](https://github.com/deadtornotor/Pitforge-Texturepack)
+	(Some Models may require Optifine to load properly, none of the guns models tho)
 
