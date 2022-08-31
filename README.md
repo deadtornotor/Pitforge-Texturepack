@@ -1,5 +1,8 @@
 # Pitforge
-[Discord]: https://discord.gg/VZej4KJAM9
+
+Version: 1.2
+
+[Discord](https://discord.gg/VZej4KJAM9)
 
 This is the official Texturepack of Pitforge
 
@@ -11,4 +14,17 @@ Some textures and models may require Optifine
 | 1.18.x  | :white_check_mark: |
 | 1.17.x  | :white_check_mark: |
 | <1.17   | :x:                |
+
+# Credits
+
+Default Slimefun Textures:
+	[Raulh22](https://www.planetminecraft.com/texture-pack/slimefun-texture-by-raulh22/)
+
+Infinity Expention Textures (Optifine only):
+	Mooy1
+	https://github.com/Mooy1/InfinityExpansion/releases/tag/v1
+
+Gun Textures:
+	By Author: deadtornotor
+	https://github.com/deadtornotor/Pitforge-Texturepack
 
