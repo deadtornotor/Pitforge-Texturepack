@@ -1,8 +1,5 @@
 # Pitforge Texturepack
 
-Logo:
-![alt text](https://github.com/deadtornotor/Pitforge-Texturepack/pack.png "Pack.png")
-
 Version: 1.2
 
 [Discord](https://discord.gg/VZej4KJAM9)
