@@ -2,7 +2,7 @@
 
 Version: 1.2
 
-[Discord](https://discord.gg/VZej4KJAM9)
+[Discord](https://discord.gg/zm4WGEYnEm)
 
 This is the official Texturepack of Pitforge
 
@@ -19,7 +19,7 @@ Some textures and models may require Optifine
 
 # Credits
 
-Slimefun texture v3.1 by:
+Slimefun textures v3.1 by:
 [Raulh22](https://www.planetminecraft.com/texture-pack/slimefun-texture-by-raulh22/)
 
 InfinityTexturesOptifine by:
