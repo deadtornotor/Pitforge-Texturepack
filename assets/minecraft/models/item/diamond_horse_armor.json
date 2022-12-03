@@ -4,36 +4,44 @@
     "layer0": "minecraft:item/diamond_horse_armor"
   },
   "overrides": [
-   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/mkb-42w" },
-   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/mkb-42w" },
-   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/mkb-42w" },
-   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/mkb-42w" },
-   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/mkb-42w" },
-   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/mkb-42w" },
-   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/WW2/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/WW2/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/WW2/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/WW2/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/WW2/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/WW2/mkb-42w" },
+   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/WW2/mkb-42w" },
    
-   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/sten-gun" },
-   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/sten-gun" },
-   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/sten-gun" },
-   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/sten-gun" },
-   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/sten-gun" },
-   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/sten-gun" },
-   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/sten-gun" },
+   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/WW2/sten-gun" },
+   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/WW2/sten-gun" },
+   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/WW2/sten-gun" },
+   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/WW2/sten-gun" },
+   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/WW2/sten-gun" },
+   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/WW2/sten-gun" },
+   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/WW2/sten-gun" },
    
-   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/stg-44" },
-   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/stg-44" },
-   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/stg-44" },
-   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/stg-44" },
-   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/stg-44" },
-   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/stg-44" },
-   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/stg-44" },
+   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/WW2/stg-44" },
+   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/WW2/stg-44" },
+   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/WW2/stg-44" },
+   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/WW2/stg-44" },
+   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/WW2/stg-44" },
+   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/WW2/stg-44" },
+   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/WW2/stg-44" },
 
-   { "predicate": { "custom_model_data": 4200031}, "model": "item/normalweapons/thompson-gun" },
-   { "predicate": { "custom_model_data": 4200032}, "model": "item/desertweapons/thompson-gun" },
-   { "predicate": { "custom_model_data": 4200033}, "model": "item/fireweapons/thompson-gun" },
-   { "predicate": { "custom_model_data": 4200034}, "model": "item/forrestweapons/thompson-gun" },
-   { "predicate": { "custom_model_data": 4200035}, "model": "item/goldweapons/thompson-gun" },
-   { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/thompson-gun" },
-   { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/thompson-gun" }
+   { "predicate": { "custom_model_data": 4200031}, "model": "item/normalweapons/WW2/thompson-gun" },
+   { "predicate": { "custom_model_data": 4200032}, "model": "item/desertweapons/WW2/thompson-gun" },
+   { "predicate": { "custom_model_data": 4200033}, "model": "item/fireweapons/WW2/thompson-gun" },
+   { "predicate": { "custom_model_data": 4200034}, "model": "item/forrestweapons/WW2/thompson-gun" },
+   { "predicate": { "custom_model_data": 4200035}, "model": "item/goldweapons/WW2/thompson-gun" },
+   { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/WW2/thompson-gun" },
+   { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/WW2/thompson-gun" },
+   
+   { "predicate": { "custom_model_data": 4200041}, "model": "item/normalweapons/Modern/G-36" },
+   
+   { "predicate": { "custom_model_data": 4200051}, "model": "item/normalweapons/Modern/AR-15" },
+   
+   { "predicate": { "custom_model_data": 4200061}, "model": "item/normalweapons/Modern/M4A1" },
+   
+   { "predicate": { "custom_model_data": 4200071}, "model": "item/normalweapons/Modern/AK-47" }
   ]
 }

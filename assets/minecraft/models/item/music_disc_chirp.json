@@ -4,37 +4,45 @@
     "layer0": "minecraft:item/music_disc_chirp"
   },
   "overrides": [
-   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/mosin-nagant" },
-   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/mosin-nagant" },
-   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/mosin-nagant" },
-   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/mosin-nagant" },
-   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/mosin-nagant" },
-   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/mosin-nagant" },
-   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/WW2/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/WW2/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/WW2/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/WW2/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/WW2/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/WW2/mosin-nagant" },
+   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/WW2/mosin-nagant" },
    
-   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/ross-rifle" },
-   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/ross-rifle" },
-   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/ross-rifle" },
-   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/ross-rifle" },
-   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/ross-rifle" },
-   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/ross-rifle" },
-   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/WW2/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/WW2/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/WW2/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/WW2/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/WW2/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/WW2/ross-rifle" },
+   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/WW2/ross-rifle" },
    
-   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/type-38-carbine" },
-   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/type-38-carbine" },
-   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/type-38-carbine" },
-   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/type-38-carbine" },
-   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/type-38-carbine" },
-   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/type-38-carbine" },
-   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/WW2/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/WW2/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/WW2/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/WW2/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/WW2/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/WW2/type-38-carbine" },
+   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/WW2/type-38-carbine" },
 
-   { "predicate": { "custom_model_data": 4200031}, "model": "item/normalweapons/karabiner-98k" },
-   { "predicate": { "custom_model_data": 4200032}, "model": "item/desertweapons/karabiner-98k" },
-   { "predicate": { "custom_model_data": 4200033}, "model": "item/fireweapons/karabiner-98k" },
-   { "predicate": { "custom_model_data": 4200034}, "model": "item/forrestweapons/karabiner-98k" },
-   { "predicate": { "custom_model_data": 4200035}, "model": "item/goldweapons/karabiner-98k" },
-   { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/karabiner-98k" },
-   { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/karabiner-98k" }
+   { "predicate": { "custom_model_data": 4200031}, "model": "item/normalweapons/WW2/karabiner-98k" },
+   { "predicate": { "custom_model_data": 4200032}, "model": "item/desertweapons/WW2/karabiner-98k" },
+   { "predicate": { "custom_model_data": 4200033}, "model": "item/fireweapons/WW2/karabiner-98k" },
+   { "predicate": { "custom_model_data": 4200034}, "model": "item/forrestweapons/WW2/karabiner-98k" },
+   { "predicate": { "custom_model_data": 4200035}, "model": "item/goldweapons/WW2/karabiner-98k" },
+   { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/WW2/karabiner-98k" },
+   { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/WW2/karabiner-98k" },
+   
+   { "predicate": { "custom_model_data": 4200041}, "model": "item/normalweapons/Modern/Savage-Model-110" },
+   
+   { "predicate": { "custom_model_data": 4200051}, "model": "item/normalweapons/Modern/SVD-Dragunov" },
+   
+   { "predicate": { "custom_model_data": 4201041}, "model": "item/normalweapons/Modern/Savage-Model-110-Scope" },
+   
+   { "predicate": { "custom_model_data": 4201051}, "model": "item/normalweapons/Modern/SVD-Dragunov-Scope" }
    
   ]
 }

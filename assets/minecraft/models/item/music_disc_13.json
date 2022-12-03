@@ -4,36 +4,44 @@
     "layer0": "minecraft:item/music_disc_13"
   },
   "overrides": [
-   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/ruby-pistol" },
-   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/ruby-pistol" },
-   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/ruby-pistol" },
-   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/ruby-pistol" },
-   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/ruby-pistol" },
-   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/ruby-pistol" },
-   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200001}, "model": "item/normalweapons/WW2/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200002}, "model": "item/desertweapons/WW2/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200003}, "model": "item/fireweapons/WW2/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200004}, "model": "item/forrestweapons/WW2/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200005}, "model": "item/goldweapons/WW2/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/WW2/ruby-pistol" },
+   { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/WW2/ruby-pistol" },
    
-   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/mauser-c96" },
-   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/mauser-c96" },
-   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/mauser-c96" },
-   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/mauser-c96" },
-   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/mauser-c96" },
-   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/mauser-c96" },
-   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/WW2/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/WW2/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/WW2/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/WW2/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/WW2/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/WW2/mauser-c96" },
+   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/WW2/mauser-c96" },
    
-   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/beretta-m1915" },
-   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/beretta-m1915" },
-   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/beretta-m1915" },
-   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/beretta-m1915" },
-   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/beretta-m1915" },
-   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/beretta-m1915" },
-   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/WW2/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/WW2/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/WW2/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/WW2/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/WW2/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/WW2/beretta-m1915" },
+   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/WW2/beretta-m1915" },
 
-   { "predicate": { "custom_model_data": 4200031}, "model": "item/normalweapons/colt-1911" },
-   { "predicate": { "custom_model_data": 4200032}, "model": "item/desertweapons/colt-1911" },
-   { "predicate": { "custom_model_data": 4200033}, "model": "item/fireweapons/colt-1911" },
-   { "predicate": { "custom_model_data": 4200034}, "model": "item/forrestweapons/colt-1911" },
-   { "predicate": { "custom_model_data": 4200035}, "model": "item/goldweapons/colt-1911" },
-   { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/colt-1911" },
-   { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/colt-1911" }
+   { "predicate": { "custom_model_data": 4200031}, "model": "item/normalweapons/WW2/colt-1911" },
+   { "predicate": { "custom_model_data": 4200032}, "model": "item/desertweapons/WW2/colt-1911" },
+   { "predicate": { "custom_model_data": 4200033}, "model": "item/fireweapons/WW2/colt-1911" },
+   { "predicate": { "custom_model_data": 4200034}, "model": "item/forrestweapons/WW2/colt-1911" },
+   { "predicate": { "custom_model_data": 4200035}, "model": "item/goldweapons/WW2/colt-1911" },
+   { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/WW2/colt-1911" },
+   { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/WW2/colt-1911" },
+   
+   { "predicate": { "custom_model_data": 4200041}, "model": "item/normalweapons/Modern/P-99" },
+   
+   { "predicate": { "custom_model_data": 4200051}, "model": "item/normalweapons/Modern/Desert-Eagle" },
+   
+   { "predicate": { "custom_model_data": 4200061}, "model": "item/normalweapons/Modern/Glock-22" },
+   
+   { "predicate": { "custom_model_data": 4200071}, "model": "item/normalweapons/Modern/Glock-19" }
   ]
 }
