@@ -12,7 +12,9 @@
    { "predicate": { "custom_model_data": 4200006}, "model": "item/iceweapons/WW2/m1-flamethrower" },
    { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/WW2/m1-flamethrower" },
    
-   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/Modern/N-LAW" }
+   { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/Modern/N-LAW" },
+   
+   { "predicate": { "custom_model_data": 4201011}, "model": "item/normalweapons/Modern/N-LAW-Scope" }
    
   ]
 }
