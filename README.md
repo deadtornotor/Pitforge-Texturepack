@@ -1,6 +1,6 @@
 # Pitforge Texturepack
 
-Version: 1.2
+Version: 1.3
 
 [Discord](https://discord.gg/zm4WGEYnEm)
 
