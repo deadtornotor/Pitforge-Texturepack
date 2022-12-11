@@ -36,13 +36,38 @@
    { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/WW2/karabiner-98k" },
    { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/WW2/karabiner-98k" },
    
+   
    { "predicate": { "custom_model_data": 4200041}, "model": "item/normalweapons/Modern/Savage-Model-110" },
+   { "predicate": { "custom_model_data": 4200042}, "model": "item/desertweapons/Modern/Savage-Model-110" },
+   { "predicate": { "custom_model_data": 4200043}, "model": "item/fireweapons/Modern/Savage-Model-110" },
+   { "predicate": { "custom_model_data": 4200044}, "model": "item/forrestweapons/Modern/Savage-Model-110" },
+   { "predicate": { "custom_model_data": 4200045}, "model": "item/goldweapons/Modern/Savage-Model-110" },
+   { "predicate": { "custom_model_data": 4200046}, "model": "item/iceweapons/Modern/Savage-Model-110" },
+   { "predicate": { "custom_model_data": 4200047}, "model": "item/snowweapons/Modern/Savage-Model-110" },
    
    { "predicate": { "custom_model_data": 4200051}, "model": "item/normalweapons/Modern/SVD-Dragunov" },
+   { "predicate": { "custom_model_data": 4200052}, "model": "item/desertweapons/Modern/SVD-Dragunov" },
+   { "predicate": { "custom_model_data": 4200053}, "model": "item/fireweapons/Modern/SVD-Dragunov" },
+   { "predicate": { "custom_model_data": 4200054}, "model": "item/forrestweapons/Modern/SVD-Dragunov" },
+   { "predicate": { "custom_model_data": 4200055}, "model": "item/goldweapons/Modern/SVD-Dragunov" },
+   { "predicate": { "custom_model_data": 4200056}, "model": "item/iceweapons/Modern/SVD-Dragunov" },
+   { "predicate": { "custom_model_data": 4200057}, "model": "item/snowweapons/Modern/SVD-Dragunov" },
    
    { "predicate": { "custom_model_data": 4201041}, "model": "item/normalweapons/Modern/Savage-Model-110-Scope" },
+   { "predicate": { "custom_model_data": 4201042}, "model": "item/desertweapons/Modern/Savage-Model-110-Scope" },
+   { "predicate": { "custom_model_data": 4201043}, "model": "item/fireweapons/Modern/Savage-Model-110-Scope" },
+   { "predicate": { "custom_model_data": 4201044}, "model": "item/forrestweapons/Modern/Savage-Model-110-Scope" },
+   { "predicate": { "custom_model_data": 4201045}, "model": "item/goldweapons/Modern/Savage-Model-110-Scope" },
+   { "predicate": { "custom_model_data": 4201046}, "model": "item/iceweapons/Modern/Savage-Model-110-Scope" },
+   { "predicate": { "custom_model_data": 4201047}, "model": "item/snowweapons/Modern/Savage-Model-110-Scope" },
    
-   { "predicate": { "custom_model_data": 4201051}, "model": "item/normalweapons/Modern/SVD-Dragunov-Scope" }
+   { "predicate": { "custom_model_data": 4201051}, "model": "item/normalweapons/Modern/SVD-Dragunov-Scope" },
+   { "predicate": { "custom_model_data": 4201052}, "model": "item/desertweapons/Modern/SVD-Dragunov-Scope" },
+   { "predicate": { "custom_model_data": 4201053}, "model": "item/fireweapons/Modern/SVD-Dragunov-Scope" },
+   { "predicate": { "custom_model_data": 4201054}, "model": "item/forrestweapons/Modern/SVD-Dragunov-Scope" },
+   { "predicate": { "custom_model_data": 4201055}, "model": "item/goldweapons/Modern/SVD-Dragunov-Scope" },
+   { "predicate": { "custom_model_data": 4201056}, "model": "item/iceweapons/Modern/SVD-Dragunov-Scope" },
+   { "predicate": { "custom_model_data": 4201057}, "model": "item/snowweapons/Modern/SVD-Dragunov-Scope" }
    
   ]
 }

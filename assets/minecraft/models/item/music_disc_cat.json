@@ -20,6 +20,12 @@
    { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/WW2/browning-auto-5" },
    { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/WW2/browning-auto-5" },
    
-   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/Modern/Marlin-1895" }
+   { "predicate": { "custom_model_data": 4200021}, "model": "item/normalweapons/Modern/Marlin-1895" },
+   { "predicate": { "custom_model_data": 4200022}, "model": "item/desertweapons/Modern/Marlin-1895" },
+   { "predicate": { "custom_model_data": 4200023}, "model": "item/fireweapons/Modern/Marlin-1895" },
+   { "predicate": { "custom_model_data": 4200024}, "model": "item/forrestweapons/Modern/Marlin-1895" },
+   { "predicate": { "custom_model_data": 4200025}, "model": "item/goldweapons/Modern/Marlin-1895" },
+   { "predicate": { "custom_model_data": 4200026}, "model": "item/iceweapons/Modern/Marlin-1895" },
+   { "predicate": { "custom_model_data": 4200027}, "model": "item/snowweapons/Modern/Marlin-1895" }
   ]
 }

@@ -13,8 +13,20 @@
    { "predicate": { "custom_model_data": 4200007}, "model": "item/snowweapons/WW2/m1-flamethrower" },
    
    { "predicate": { "custom_model_data": 4200011}, "model": "item/normalweapons/Modern/N-LAW" },
+   { "predicate": { "custom_model_data": 4200012}, "model": "item/desertweapons/Modern/N-LAW" },
+   { "predicate": { "custom_model_data": 4200013}, "model": "item/fireweapons/Modern/N-LAW" },
+   { "predicate": { "custom_model_data": 4200014}, "model": "item/forrestweapons/Modern/N-LAW" },
+   { "predicate": { "custom_model_data": 4200015}, "model": "item/goldweapons/Modern/N-LAW" },
+   { "predicate": { "custom_model_data": 4200016}, "model": "item/iceweapons/Modern/N-LAW" },
+   { "predicate": { "custom_model_data": 4200017}, "model": "item/snowweapons/Modern/N-LAW" },
    
-   { "predicate": { "custom_model_data": 4201011}, "model": "item/normalweapons/Modern/N-LAW-Scope" }
+   { "predicate": { "custom_model_data": 4201011}, "model": "item/normalweapons/Modern/N-LAW-Scope" },
+   { "predicate": { "custom_model_data": 4201012}, "model": "item/desertweapons/Modern/N-LAW-Scope" },
+   { "predicate": { "custom_model_data": 4201013}, "model": "item/fireweapons/Modern/N-LAW-Scope" },
+   { "predicate": { "custom_model_data": 4201014}, "model": "item/forrestweapons/Modern/N-LAW-Scope" },
+   { "predicate": { "custom_model_data": 4201015}, "model": "item/goldweapons/Modern/N-LAW-Scope" },
+   { "predicate": { "custom_model_data": 4201016}, "model": "item/iceweapons/Modern/N-LAW-Scope" },
+   { "predicate": { "custom_model_data": 4201017}, "model": "item/snowweapons/Modern/N-LAW-Scope" }
    
   ]
 }

@@ -36,8 +36,21 @@
    { "predicate": { "custom_model_data": 4200036}, "model": "item/iceweapons/WW2/model-1940-light-rifle" },
    { "predicate": { "custom_model_data": 4200037}, "model": "item/snowweapons/WW2/model-1940-light-rifle" },
    
-   { "predicate": { "custom_model_data": 4200041}, "model": "item/normalweapons/Modern/GSG-16" },
    
-   { "predicate": { "custom_model_data": 4200051}, "model": "item/normalweapons/Modern/P-90" }
+   { "predicate": { "custom_model_data": 4200041}, "model": "item/normalweapons/Modern/GSG-16" },
+   { "predicate": { "custom_model_data": 4200042}, "model": "item/desertweapons/Modern/GSG-16" },
+   { "predicate": { "custom_model_data": 4200043}, "model": "item/fireweapons/Modern/GSG-16" },
+   { "predicate": { "custom_model_data": 4200044}, "model": "item/forrestweapons/Modern/GSG-16" },
+   { "predicate": { "custom_model_data": 4200045}, "model": "item/goldweapons/Modern/GSG-16" },
+   { "predicate": { "custom_model_data": 4200046}, "model": "item/iceweapons/Modern/GSG-16" },
+   { "predicate": { "custom_model_data": 4200047}, "model": "item/snowweapons/Modern/GSG-16" },
+   
+   { "predicate": { "custom_model_data": 4200051}, "model": "item/normalweapons/Modern/P-90" },
+   { "predicate": { "custom_model_data": 4200052}, "model": "item/desertweapons/Modern/P-90" },
+   { "predicate": { "custom_model_data": 4200053}, "model": "item/fireweapons/Modern/P-90" },
+   { "predicate": { "custom_model_data": 4200054}, "model": "item/forrestweapons/Modern/P-90" },
+   { "predicate": { "custom_model_data": 4200055}, "model": "item/goldweapons/Modern/P-90" },
+   { "predicate": { "custom_model_data": 4200056}, "model": "item/iceweapons/Modern/P-90" },
+   { "predicate": { "custom_model_data": 4200057}, "model": "item/snowweapons/Modern/P-90" }
   ]
 }
